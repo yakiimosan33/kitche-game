@@ -1,0 +1,5 @@
+{
+  "name": "Simulated Kitchen",
+  "description": "A web application where users can select dishes and ingredients to create a virtual meal. The creation is then scored by an AI, and users can compete on a leaderboard.",
+  "requestFramePermissions": []
+}
